@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,R as s}from"./chunks/framework.1lpcFu1U.js";const k=JSON.parse('{"title":"java基础学习","description":"","frontmatter":{},"headers":[],"relativePath":"java/index.md","filePath":"java/index.md"}'),i={name:"java/index.md"},h=s("",7),p=[h];function l(n,o,r,c,d,_){return t(),e("div",null,p)}const m=a(i,[["render",l]]);export{k as __pageData,m as default};
