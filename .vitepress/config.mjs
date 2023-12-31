@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 import {set_sidebar} from './jen_sidebar.js'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/bolg/',
+    base: '/MyBolg/',
     title: "爱丽丝编程网",
     description: "A VitePress Site",
     themeConfig: {
